@@ -34,14 +34,14 @@ Python-tesseract is an optical character recognition (OCR) tool for python. That
 * **Linux**
 On Linux you can simply open the terminal and insert the following commands:
 
-     sudo apt install tesseract-ocr
-     sudo apt install libtesseract-dev
+       sudo apt install tesseract-ocr
+       sudo apt install libtesseract-dev
      
 
 * **Mac**
 To install tesseract on Mac use this command:
 
-     sudo port install tesseract
+       sudo port install tesseract
 
 
 If the commands don’t work, you can refer to the Tesseract website page for more instructions: https://tesseract-ocr.github.io/tessdoc/Home.html.
