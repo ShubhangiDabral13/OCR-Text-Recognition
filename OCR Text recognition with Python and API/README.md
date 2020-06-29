@@ -2,9 +2,9 @@
 # OCR Text recognition with Python and API
 
 ## Table of Content:
-* [Overiew](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Overview)
-* [Libraries and Modules required](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Steps-for-Implementation#Libraries-and-Modules-required)
-* [Steps for Implementation](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Steps-for-Implementation)
+* [Overiew](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/OCR-Text-recognition-with-Python-and-API#Overview)
+* [Libraries and Modules required](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/OCR-Text-recognition-with-Python-and-API#Steps-for-Implementation#Libraries-and-Modules-required)
+* [Steps for Implementation](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/OCR-Text-recognition-with-Python-and-API#Steps-for-Implementation)
 
 
 ## Overview
