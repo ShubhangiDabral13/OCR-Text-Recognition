@@ -2,11 +2,11 @@
 # Text recognition (OCR) with Tesseract and Opencv
 
 ## Table of Content:
-* [Overview](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Overview)
-* [Libraries and Modules required](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Libraries-and-Modules-required)
-* [Installation Of Modules](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Installation-of-Modules)
-* [Steps for Implementation](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Steps-for-Implementation)
-* [Inspiration](https://github.com/ShubhangiDabral13/OCR-Text-Recognition#Inspiration)
+* [Overview](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/edit/master/Text%20recognition%20(OCR)%20with%20Tesseract%20and%20Opencv#Overview)
+* [Libraries and Modules required](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/edit/master/Text%20recognition%20(OCR)%20with%20Tesseract%20and%20Opencv#Libraries-and-Modules-required)
+* [Installation Of Modules](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/edit/master/Text%20recognition%20(OCR)%20with%20Tesseract%20and%20Opencv#Installation-of-Modules)
+* [Steps for Implementation](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/edit/master/Text%20recognition%20(OCR)%20with%20Tesseract%20and%20Opencv#Steps-for-Implementation)
+* [Inspiration](https://github.com/ShubhangiDabral13/OCR-Text-Recognition/edit/master/Text%20recognition%20(OCR)%20with%20Tesseract%20and%20Opencv#Inspiration)
 
 
 
